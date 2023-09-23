@@ -1,0 +1,18 @@
+h1, h2 ,h3 {
+    color: black;
+    border: 2px solid ;
+    padding: .2rem; 
+    max-width: 11rem;
+    border-radius: 15px;
+    
+}  
+
+img{
+    border: 1px solid rgb(5, 4, 4);
+    border-radius: 50%;
+}
+body{
+    background-color:    #8CA5AA;
+    color: black;
+    
+}
